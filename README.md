@@ -1,6 +1,8 @@
 
 ## 👋 Hello there , I'm Suraj Das - Senior DevOps Engineer
 
+
+
 🚀 **Senior DevOps Engineer | Kubernetes | Cloud Infrastructure | Web3 Infra**
 
 I'm a DevOps engineer with **4.5+ years of experience** designing and operating large-scale cloud infrastructure.  
@@ -12,6 +14,16 @@ I enjoy building systems that are:
 🔐 secure  
 💰 cost optimized  
 🧠 observable  
+
+---
+
+#### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -128,13 +140,7 @@ Saved **$1.5M+ AWS costs** through:
 
 
 
-#### Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
-</picture>
 
 
 ### developer jokes for a laugh 😂
